@@ -6,12 +6,12 @@ Summary:	KDE lskat
 Summary(pl.UTF-8):	Lskat dla KDE
 Summary(pt_BR.UTF-8):	Jogo de cartas Lieutenant Skat para KDE
 Name:		kde4-%{orgname}
-Version:	4.12.3
+Version:	4.12.4
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	39c65b5f274d7992c933398f7e5f3ea9
+# Source0-md5:	19e6043c3b2d82d2937867d5a539fec7
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
